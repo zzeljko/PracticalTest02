@@ -1,0 +1,6 @@
+<resources>
+    <string-array name="operation">
+        <item>ADD</item>
+        <item>MUL</item>
+    </string-array>
+</resources>
